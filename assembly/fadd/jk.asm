@@ -1,4 +1,4 @@
-.include "/data/data/com.termux/files/home/storage/shared/fwc/assembly/hello/m328Pdef.inc"
+.include "<include your path here>/m328Pdef.inc"
 
 
 
