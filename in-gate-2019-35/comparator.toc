@@ -1,5 +1,0 @@
-\contentsline {section}{\numberline {1}Problem}{2}{}%
-\contentsline {section}{\numberline {2}Components}{2}{}%
-\contentsline {section}{\numberline {3}Reduction of logical circuit}{2}{}%
-\contentsline {section}{\numberline {4}Implementation}{3}{}%
-\contentsline {section}{\numberline {5}Procedure}{4}{}%
